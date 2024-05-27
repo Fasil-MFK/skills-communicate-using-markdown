@@ -6,3 +6,8 @@
 ###### This is H6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+`backtick is used for code`
+``` javascript
+var myVar = "Hello, world!";
+```
